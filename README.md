@@ -1,2 +1,2 @@
-# Avdventure Game
+# Adventure Game
 A text based adventure game with random factors. 
